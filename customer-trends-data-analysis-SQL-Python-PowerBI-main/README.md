@@ -30,7 +30,8 @@ Prepared a clear project report summarizing key findings and business recommenda
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
-   ```bash https://github.com/Riteshtiw/Customer-trends-data-analysis/edit/main/customer-trends-data-analysis-SQL-Python-PowerBI-main/README.md
+   ```bash
+   https://github.com/Riteshtiw/Customer-trends-data-analysis/edit/main/customer-trends-data-analysis-SQL-Python-PowerBI-main/README.md
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
