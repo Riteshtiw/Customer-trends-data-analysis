@@ -1,4 +1,4 @@
-#  Customer Behavior Data Analyst 
+# 👨‍💻Customer Behavior Data Analyst 
 ### SQL, Python, Power BI
 
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments.  It covers all key stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
@@ -75,6 +75,7 @@ Computer Science and Data Science.
 
 
 💼 LinkedIn: [Ritesh Tiwari](https://www.linkedin.com/in/ritesh-tiwari-415143315/)
+
 -Open to professional connections, data-driven collaborations, and exciting opportunities in Data Analytics.
 
 
